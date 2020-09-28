@@ -11,3 +11,5 @@ class App extend Component {
         )
     }
 }
+
+export default Quiz 
