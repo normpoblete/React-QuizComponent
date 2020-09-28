@@ -6,9 +6,8 @@ let quizData = require('./quiz_data.json')
 class App extend Component {
     render() {
         return (
-            <div>Quiz</div> 
-        )
+            <div>Quiz</div>
+        ) 
     }
 }
 
-export default Quiz 
