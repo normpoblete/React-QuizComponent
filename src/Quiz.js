@@ -6,8 +6,7 @@ let quizData = require('./quiz_data.json')
 class App extend Component {
     render() {
         return (
-            <div/>
-            <quizData/>
+            <div>Quiz</div> 
         )
     }
 }
