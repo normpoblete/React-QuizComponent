@@ -7,7 +7,7 @@ class QuizQuestionButton extends Component {
             <button>{this.props.button_text}</button>
         </li>
         )
-    {
+    }
 }
 
 export default QuizQuestionButton
